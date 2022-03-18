@@ -28,7 +28,7 @@ SECRET_KEY = env("SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = bool(int(env('DEBUG')))
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'devsrch.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'rest-api-with-viewsets.herokuapp.com']
 
 
 # Application definition
