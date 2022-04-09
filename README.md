@@ -6,7 +6,7 @@ I built this project based on Udemy with the purpose of studying.
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
 ## Features
-- Token based Login
+- Token based Custom Login
 - Search Users with Name or Email
 - View Feed for All Status Texts
 - Create/Update Status Text
